@@ -20,8 +20,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var game: Game
 
     companion object {
-        const val CARD_WIDTH = 100 // Remplacez par la largeur de carte souhaitée
-        const val CARD_HEIGHT = 150 // Remplacez par la hauteur de carte souhaitée
+        const val CARD_WIDTH = 169
+        const val CARD_HEIGHT = 245
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
