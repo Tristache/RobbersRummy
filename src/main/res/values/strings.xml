@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RobbersRummy</string>
+    <string name="card_back_description">Card back</string>
+    <string name="random_card_description">Random card</string>
+</resources>
